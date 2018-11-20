@@ -1,0 +1,7 @@
+-lib heaps
+-js cursor.js
+-main Cursor
+-cp ../..
+-cp .
+-debug
+

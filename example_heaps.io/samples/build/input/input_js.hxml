@@ -1,0 +1,7 @@
+-lib heaps
+-js input.js
+-main Input
+-cp ../..
+-cp .
+-debug
+

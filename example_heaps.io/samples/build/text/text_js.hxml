@@ -1,0 +1,7 @@
+-lib heaps
+-js text.js
+-main Text
+-cp ../..
+-cp .
+-debug
+

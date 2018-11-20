@@ -1,0 +1,7 @@
+-lib heaps
+-js mask.js
+-main Mask
+-cp ../..
+-cp .
+-debug
+

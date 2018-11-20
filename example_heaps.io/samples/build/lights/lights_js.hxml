@@ -1,0 +1,7 @@
+-lib heaps
+-js lights.js
+-main Lights
+-cp ../..
+-cp .
+-debug
+

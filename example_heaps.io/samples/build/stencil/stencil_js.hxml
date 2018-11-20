@@ -1,0 +1,7 @@
+-lib heaps
+-js stencil.js
+-main Stencil
+-cp ../..
+-cp .
+-debug
+

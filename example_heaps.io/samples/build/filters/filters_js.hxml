@@ -1,0 +1,7 @@
+-lib heaps
+-js filters.js
+-main Filters
+-cp ../..
+-cp .
+-debug
+

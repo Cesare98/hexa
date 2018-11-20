@@ -1,0 +1,7 @@
+-lib heaps
+-js shadows.js
+-main Shadows
+-cp ../..
+-cp .
+-debug
+

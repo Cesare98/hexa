@@ -1,0 +1,7 @@
+-lib heaps
+-js sound.js
+-main Sound
+-cp ../..
+-cp .
+-debug
+-D resourcesPath=../../sound_res

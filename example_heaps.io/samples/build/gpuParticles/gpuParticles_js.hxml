@@ -1,0 +1,7 @@
+-lib heaps
+-js gpuParticles.js
+-main GpuParticles
+-cp ../..
+-cp .
+-debug
+

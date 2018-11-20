@@ -1,0 +1,7 @@
+-lib heaps
+-js base3D.js
+-main Base3D
+-cp ../..
+-cp .
+-debug
+

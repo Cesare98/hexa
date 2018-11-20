@@ -1,0 +1,7 @@
+-lib heaps
+-js pbr.js
+-main Pbr
+-cp ../..
+-cp .
+-debug
+-D resourcesPath=../../pbr_res

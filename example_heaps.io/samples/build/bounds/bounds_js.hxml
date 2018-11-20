@@ -1,0 +1,7 @@
+-lib heaps
+-js bounds.js
+-main Bounds
+-cp ../..
+-cp .
+-debug
+

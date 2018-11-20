@@ -1,0 +1,7 @@
+-lib heaps
+-js adjustColor.js
+-main AdjustColor
+-cp ../..
+-cp .
+-debug
+

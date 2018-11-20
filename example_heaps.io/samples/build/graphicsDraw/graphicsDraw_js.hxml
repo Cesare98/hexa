@@ -1,0 +1,7 @@
+-lib heaps
+-js graphicsDraw.js
+-main GraphicsDraw
+-cp ../..
+-cp .
+-debug
+

@@ -1,0 +1,7 @@
+-lib heaps
+-js cubeTexture.js
+-main CubeTexture
+-cp ../..
+-cp .
+-debug
+

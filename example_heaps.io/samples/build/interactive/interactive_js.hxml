@@ -1,0 +1,7 @@
+-lib heaps
+-js interactive.js
+-main Interactive
+-cp ../..
+-cp .
+-debug
+-D resourcesPath=../../skin_res

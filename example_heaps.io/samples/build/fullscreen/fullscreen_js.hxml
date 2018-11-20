@@ -1,0 +1,7 @@
+-lib heaps
+-js fullscreen.js
+-main Fullscreen
+-cp ../..
+-cp .
+-debug
+

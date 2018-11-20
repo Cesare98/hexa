@@ -1,0 +1,7 @@
+-lib heaps
+-js world.js
+-main World
+-cp ../..
+-cp .
+-debug
+-D resourcesPath=../../world_res

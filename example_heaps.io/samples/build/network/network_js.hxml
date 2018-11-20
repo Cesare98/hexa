@@ -1,0 +1,7 @@
+-lib heaps
+-js network.js
+-main Network
+-cp ../..
+-cp .
+-debug
+-lib hxbit

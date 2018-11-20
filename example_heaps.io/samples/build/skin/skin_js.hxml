@@ -1,0 +1,7 @@
+-lib heaps
+-js skin.js
+-main Skin
+-cp ../..
+-cp .
+-debug
+-D resourcesPath=../../skin_res

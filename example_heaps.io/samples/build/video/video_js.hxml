@@ -1,0 +1,7 @@
+-lib heaps
+-js video.js
+-main Video
+-cp ../..
+-cp .
+-debug
+

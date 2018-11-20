@@ -1,0 +1,7 @@
+-lib heaps
+-js quaternion.js
+-main Quaternion
+-cp ../..
+-cp .
+-debug
+

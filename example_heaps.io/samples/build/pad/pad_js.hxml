@@ -1,0 +1,7 @@
+-lib heaps
+-js pad.js
+-main Pad
+-cp ../..
+-cp .
+-debug
+

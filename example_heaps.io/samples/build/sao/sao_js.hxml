@@ -1,0 +1,7 @@
+-lib heaps
+-js sao.js
+-main Sao
+-cp ../..
+-cp .
+-debug
+
